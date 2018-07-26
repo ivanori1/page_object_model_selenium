@@ -1,0 +1,50 @@
+1532615643036	geckodriver	INFO	geckodriver 0.21.0
+1532615643056	geckodriver	INFO	Listening on 127.0.0.1:55633
+1532615646072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IVAN~1.COR\\AppData\\Local\\Temp\\rust_mozprofile.JTt7g1VwvrA4"
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+1532615649771	Marionette	INFO	Listening on port 55646
+1532615649999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532615690372	geckodriver	INFO	geckodriver 0.21.0
+1532615690372	geckodriver	INFO	Listening on 127.0.0.1:55782
+1532615693403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IVAN~1.COR\\AppData\\Local\\Temp\\rust_mozprofile.speEiBNUhkZq"
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+1532615695163	Marionette	INFO	Listening on port 55796
+1532615695563	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8012, Chrome_ChildThread] WARNING: pipe error: 109: f*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7340, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532615809627	geckodriver	INFO	geckodriver 0.21.0
+1532615809627	geckodriver	INFO	Listening on 127.0.0.1:56091
+1532615812666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IVAN~1.COR\\AppData\\Local\\Temp\\rust_mozprofile.rGwVSH11VTEA"
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+1532615814495	Marionette	INFO	Listening on port 56104
+1532615814815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532616456290	geckodriver	INFO	geckodriver 0.21.0
+1532616456298	geckodriver	INFO	Listening on 127.0.0.1:57378
+1532616459312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IVAN~1.COR\\AppData\\Local\\Temp\\rust_mozprofile.xch6k2DQ06hd"
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ivan.coric\AppData\Local\openvr\openvrpaths.vrpath
+1532616461064	Marionette	INFO	Listening on port 57392
+1532616461469	Marionette	WARN	TLS certificate errors will be ignored for this session
